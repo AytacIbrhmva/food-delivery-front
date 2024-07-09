@@ -1,0 +1,49 @@
+{
+    "home":{
+        "welcome_text":"Hungry ? order & eat",
+        "search":"Search",
+        "popular":"Popular",
+        "weekly_foods":"Foods of the week"
+    },
+    "pages":{
+        "basket":"Basket"
+    },
+    "buttons":{
+        "add_basket":"Add to cart",
+        "confirm_order":"Confirm Order",
+        "add_reservation":"Make a reservation",
+        "home_page":"Main page"
+    },
+    "misc":{
+        "welcome":"Welcome",
+        "type":"Type",
+        "see_more":"More",
+        "minuties":"min",
+        "gram":"gr",
+        "description":"Description",
+        "subtotal":"Subtotal",
+        "service_tax":"Service tax",
+        "total":"Total",
+        "food_name":"Food name"
+
+    },
+    "responses":{
+        "food_not_exist":"Food is not available",
+        "data_not_found":"Data Not found",
+        "basket_is_clear":"Your cart is empty",
+        "basket_is_clear_desc":"There are no products in your cart. You can order products by going to the main page",
+
+        "basket_is_clear_but_reservation_desc":"There are no products in your cart. Click the button below to make a reservation",
+
+        "order_success":"Your order has been received",
+        "order_success_desc":"Your order has been received. Our employees will quickly execute your order. Thanks for your order",
+
+        "reservation_success":"Your reservation has been registered",
+        "reservation_success_desc":"Your reservation has been registered. Our employees will contact you shortly. Thank you for your attention",
+        "page_not_found":"Page not found",
+        "page_not_found_desc":"The page you were looking for was not found. Check again by scanning the QR code or inform the restaurant administrator",
+        "error_ocurred":"An error occurred",
+        "error_ocurred_desc":"A system error occurred. Please report the error to the restaurant administration",
+        "added_basket":"Your selected meal has been added to the cart"
+    }
+}

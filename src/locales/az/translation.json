@@ -1,0 +1,49 @@
+{
+    "home":{
+        "welcome_text":"Acmısan ? sifariş et",
+        "search":"Axtar",
+        "popular":"Populyar",
+        "weekly_foods":"Həftənin yeməkləri"
+    },
+    "pages":{
+        "basket":"Səbət"
+    },
+    "buttons":{
+        "add_basket":"Səbətə əlavə et",
+        "confirm_order":"Sifarişi təsdiqlə",
+        "add_reservation":"Rezerv Et",
+        "home_page":"Əsas səhifə"
+    },
+    "misc":{
+        "welcome":"Xoş Gəldiniz",
+        "type":"Növ",
+        "see_more":"Daha çox",
+        "minuties":"dəq",
+        "gram":"qr",
+        "description":"Açıqlama",
+        "subtotal":"Yekun",
+        "service_tax":"Servis haqqı",
+        "total":"Toplam",
+        "food_name":"Yemək adı"
+    },
+    "responses":{
+        "food_not_exist":"Yemək mövcud deyil",
+        "data_not_found":"Məlumat tapılmadı",
+        "basket_is_clear":"Səbətiniz boşdur",
+        "basket_is_clear_desc":"Səbətinizdə heçbir məhsul yoxdur.  Ana səhifəyə keçid edərək məhsul sifariş edə bilərsiniz",
+        
+        "basket_is_clear_but_reservation_desc":"Səbətinizdə heçbir məhsul yoxdur. Rezervasiya etmək üçün aşağıdaki butona basın",
+        
+
+        "order_success":"Sifarişiniz qeydə alınmışdır",
+        "order_success_desc":"Sifarişiniz qeydə alınmışdır. Əməkdaşlarımız qısa zamanda sifarişinizin icrasına başlayacaqdır. Sifarişiniz üçün təşəkkürlər",
+        "reservation_success":"Rezervasiyanız qeydə alınmışdır",
+        "reservation_success_desc":"Rezervasiyanız qeydə alınmışdır. Əməkdaşlarımız qısa zamanda sizinlə əlaqə saxlayacqdır. Diqqətiniz üçün təşəkkürlər",
+        "page_not_found":"Səhifə Tapılmadı",
+        "page_not_found_desc":"Axtardığınız səhifə tapılmadı. QR kodu oxudaraq təkrar yoxlayın və ya restoran administratorluğuna xəbər edin",
+        "error_ocurred":"Xəta başverdi",
+        "error_ocurred_desc":"Sistemdə xəta başverdi. Xətayla bağlı restoran administratorluğuna xəbər verməyinizi xahiş edirik",
+        "added_basket":"Seçdiyiniz yemək səbətə əlavə olunmuşdur"
+
+    }
+}
